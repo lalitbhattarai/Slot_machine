@@ -1,1 +1,3 @@
 # Slot_machine
+
+This is a slot machine where user can bet amount there are  winning sequence and you can check how much you got left and how much you win and how.The winning amount got  automatically onto your remaning balance...
